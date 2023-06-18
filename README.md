@@ -29,7 +29,7 @@
 
 
 ## Welcome screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/681e9db5-b66b-42ad-86cc-690d0b2a55d1)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/e1ff2908-5acb-44bc-83ed-eaba0cbc96db)
 ## Login screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/18d54219-2453-4930-9d9a-c08121ea81ea)
 ## Dashboard
