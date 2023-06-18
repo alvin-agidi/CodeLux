@@ -40,3 +40,9 @@
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1d6b1cb6-00bd-4f0d-a48d-b645490d0e9a)
 ## Add project screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/8b9a6e8e-343d-4177-b4d8-dc9616f340b6)
+## Full mobile screen support
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/f7b14a11-1352-4cea-a7e0-a8ef009dfdaf)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/a84b8db4-ebd3-42d8-9d2a-a86dcd40db5b)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/bbca0f62-7673-41b3-9a27-e06c0ebb991f)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/53d2baf1-e49c-4c15-b59a-5adfc151d5fc)
+
