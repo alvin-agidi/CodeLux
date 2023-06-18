@@ -31,18 +31,18 @@
 ## Welcome screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/e1ff2908-5acb-44bc-83ed-eaba0cbc96db)
 ## Login screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/18d54219-2453-4930-9d9a-c08121ea81ea)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/b5dd7070-2d91-487c-8779-d4125cb11b36)
 ## Dashboard
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/645255af-75c8-4bbc-8bb0-141afa16167b)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1018cab2-8d07-49c1-8e99-b39a4ad459b2)
 ## Project list screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/d7b55bac-8b08-41c3-a499-d9d7b3ce9c05)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/f5f8d5f3-babb-42c8-964e-888f8c006359)
 ## Project overview screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1d6b1cb6-00bd-4f0d-a48d-b645490d0e9a)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/561ffa72-8b9c-4c52-ba9e-0e1cbc1deb8c)
 ## Add project screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/8b9a6e8e-343d-4177-b4d8-dc9616f340b6)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/d84bf132-9387-468b-97b8-fa36246c40ae)
 ## Full mobile screen support
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/f7b14a11-1352-4cea-a7e0-a8ef009dfdaf)
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/a84b8db4-ebd3-42d8-9d2a-a86dcd40db5b)
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/bbca0f62-7673-41b3-9a27-e06c0ebb991f)
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/53d2baf1-e49c-4c15-b59a-5adfc151d5fc)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/6179bbd3-6eee-443f-bb1a-02d624a443db)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/ace350e0-995c-4ec5-8eda-59be46ee520a)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/c4a46b88-3e12-4485-ab11-80214f3ecf3d)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/4480f8c7-bb49-4113-b425-64bdcb981f82)
 
