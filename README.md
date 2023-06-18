@@ -30,11 +30,13 @@
 
 ## Welcome screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/681e9db5-b66b-42ad-86cc-690d0b2a55d1)
-## Login Screen
+## Login screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/18d54219-2453-4930-9d9a-c08121ea81ea)
 ## Dashboard
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/645255af-75c8-4bbc-8bb0-141afa16167b)
-
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/4f1168fd-406d-49df-b764-948aaf0e6c77)
+## Project list screen
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/d7b55bac-8b08-41c3-a499-d9d7b3ce9c05)
+## Project overview screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1d6b1cb6-00bd-4f0d-a48d-b645490d0e9a)
+## Add project screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/8b9a6e8e-343d-4177-b4d8-dc9616f340b6)
