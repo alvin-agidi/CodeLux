@@ -35,7 +35,7 @@
 ## Dashboard
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1018cab2-8d07-49c1-8e99-b39a4ad459b2)
 ## Project list screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/f5f8d5f3-babb-42c8-964e-888f8c006359)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1de8e347-afb6-4924-b3cc-df094db84006)
 ## Project overview screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/561ffa72-8b9c-4c52-ba9e-0e1cbc1deb8c)
 ## Add project screen
