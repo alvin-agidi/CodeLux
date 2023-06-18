@@ -35,9 +35,9 @@
 ## Dashboard
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1018cab2-8d07-49c1-8e99-b39a4ad459b2)
 ## Project list screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/1de8e347-afb6-4924-b3cc-df094db84006)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/0bf3b0cc-5c68-45b1-a113-81d3e80262d9)
 ## Project overview screen
-![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/561ffa72-8b9c-4c52-ba9e-0e1cbc1deb8c)
+![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/a2a966db-78c5-482c-8d44-920b376646d4)
 ## Add project screen
 ![image](https://github.com/alvin-agidi/CodeLux/assets/63751335/d84bf132-9387-468b-97b8-fa36246c40ae)
 ## Full mobile screen support
